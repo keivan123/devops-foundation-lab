@@ -1,0 +1,8 @@
+person:
+  name: Keivan
+  role: DevOps Student
+  skills:
+    - git
+    - linux
+    - scripting
+    - cloud
